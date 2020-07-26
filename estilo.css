@@ -1,0 +1,31 @@
+.titulo{
+ background:#8c8c9c ;
+ 
+}
+.musica{
+    display: table;
+    float: right;
+    width: 300px;
+    margin-right:200px;
+    margin-top: -370px;
+    padding: 15px;
+}
+.livros{
+    display: table;
+    float: right;
+    width: 300px;
+    margin-right: 200px;
+    margin-top: -370px;
+    padding: 15px;
+}
+.trabalho{
+    display: table;
+    float: right;
+    width: 300px;
+    margin-right: 200px;
+    margin-top: -370px;
+    padding: 15px;
+}
+
+
+
